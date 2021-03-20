@@ -1,3 +1,3 @@
 ```go
-I like Go and Python
+Go and Python
 ```
